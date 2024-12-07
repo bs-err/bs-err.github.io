@@ -1,2 +1,2 @@
-# BlueScreen-ERROR.github.io
+# bs-err.github.io
 练习作
